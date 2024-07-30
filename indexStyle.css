@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #f5b7b7;
+    background-color: #eebdbd;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -70,8 +70,7 @@ nav ul li a {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 3rem;
-    width: 90%;
-    max-width: 1200px;
+    width: 80%;
     margin: 0 auto;
 }
 
