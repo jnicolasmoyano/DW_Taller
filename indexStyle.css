@@ -138,6 +138,10 @@ footer {
 
 /* Media Queries for Responsive Design */
 @media (max-width: 768px) {
+
+    .group-name {
+        margin-top: 20%;
+    }
     .group-members {
         grid-template-columns: 1fr;
     }
