@@ -140,8 +140,9 @@ footer {
 @media (max-width: 768px) {
 
     .group-name {
-        margin-top: 20%;
+        margin-top: 20rem;
     }
+
     .group-members {
         grid-template-columns: 1fr;
     }
